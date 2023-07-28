@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Server Site](http://127.0.0.1:5500/Result/index.html)
+- Live Site URL: [Live Server Site](https://prasannapandhare.github.io/Results-Component-Summary/)
 
 ## My process
 
